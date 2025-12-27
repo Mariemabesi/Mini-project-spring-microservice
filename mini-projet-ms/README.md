@@ -1,4 +1,4 @@
-# Mini Projet Microservices - E-Commerce App
+# Mini Projet Microservices - 
 
 A robust, scalable e-commerce backend built with Spring Boot Microservices. This project demonstrates a comprehensive microservices architecture including Service Discovery, API Gateway, Centralized Configuration, and JWT-based Security.
 
