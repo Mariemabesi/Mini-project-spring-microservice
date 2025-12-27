@@ -1,0 +1,10 @@
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/repo/OrderRepository.java
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/dto/OrderDetailsDTO.java
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/dto/CreateOrderDTO.java
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/domain/Order.java
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/dto/ProductDTO.java
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/OrderServiceApplication.java
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/client/CatalogClient.java
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/web/OrderController.java
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/domain/OrderLine.java
+/Users/yossr/spring/mini-projet-ms/order-service/src/main/java/tn/gl/orderservice/service/OrderService.java

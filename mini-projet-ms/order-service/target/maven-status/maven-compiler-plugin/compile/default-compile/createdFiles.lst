@@ -1,0 +1,11 @@
+tn/gl/orderservice/dto/ProductDTO.class
+tn/gl/orderservice/dto/CreateOrderDTO.class
+tn/gl/orderservice/service/OrderService.class
+tn/gl/orderservice/OrderServiceApplication.class
+tn/gl/orderservice/client/CatalogClient.class
+tn/gl/orderservice/domain/OrderLine.class
+tn/gl/orderservice/domain/Order.class
+tn/gl/orderservice/dto/OrderDetailsDTO$LineItem.class
+tn/gl/orderservice/dto/OrderDetailsDTO.class
+tn/gl/orderservice/web/OrderController.class
+tn/gl/orderservice/repo/OrderRepository.class

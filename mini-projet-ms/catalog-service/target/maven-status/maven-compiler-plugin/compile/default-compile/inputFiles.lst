@@ -1,0 +1,10 @@
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/domain/Category.java
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/service/CatalogService.java
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/mapper/CatalogMapper.java
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/repo/ProductRepository.java
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/dto/ProductDTO.java
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/repo/CategoryRepository.java
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/domain/Product.java
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/CatalogServiceApplication.java
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/dto/CategoryDTO.java
+/Users/yossr/spring/mini-projet-ms/catalog-service/src/main/java/tn/gl/catalogservice/web/CatalogController.java

@@ -1,0 +1,9 @@
+/Users/yossr/spring/mini-projet-ms/auth-service/src/main/java/tn/gl/authservice/repo/UserRepository.java
+/Users/yossr/spring/mini-projet-ms/auth-service/src/main/java/tn/gl/authservice/domain/User.java
+/Users/yossr/spring/mini-projet-ms/auth-service/src/main/java/tn/gl/authservice/security/JwtUtil.java
+/Users/yossr/spring/mini-projet-ms/auth-service/src/main/java/tn/gl/authservice/AuthServiceApplication.java
+/Users/yossr/spring/mini-projet-ms/auth-service/src/main/java/tn/gl/authservice/security/SecurityConfig.java
+/Users/yossr/spring/mini-projet-ms/auth-service/src/main/java/tn/gl/authservice/domain/Role.java
+/Users/yossr/spring/mini-projet-ms/auth-service/src/main/java/tn/gl/authservice/web/AuthController.java
+/Users/yossr/spring/mini-projet-ms/auth-service/src/main/java/tn/gl/authservice/security/CustomUserDetailsService.java
+/Users/yossr/spring/mini-projet-ms/auth-service/src/main/java/tn/gl/authservice/service/AuthService.java

@@ -1,0 +1,10 @@
+tn/gl/authservice/security/SecurityConfig.class
+tn/gl/authservice/service/AuthService.class
+tn/gl/authservice/domain/Role.class
+tn/gl/authservice/security/JwtUtil.class
+tn/gl/authservice/domain/User.class
+tn/gl/authservice/web/AuthController.class
+tn/gl/authservice/web/AuthController$AuthRequest.class
+tn/gl/authservice/repo/UserRepository.class
+tn/gl/authservice/security/CustomUserDetailsService.class
+tn/gl/authservice/AuthServiceApplication.class

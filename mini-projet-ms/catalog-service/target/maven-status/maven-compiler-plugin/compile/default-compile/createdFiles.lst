@@ -1,0 +1,14 @@
+tn/gl/catalogservice/CatalogServiceApplication.class
+tn/gl/catalogservice/service/CatalogService.class
+tn/gl/catalogservice/dto/ProductDTO$Create.class
+tn/gl/catalogservice/dto/CategoryDTO$Create.class
+tn/gl/catalogservice/repo/CategoryRepository.class
+tn/gl/catalogservice/web/CatalogController.class
+tn/gl/catalogservice/dto/ProductDTO.class
+tn/gl/catalogservice/mapper/CatalogMapper.class
+tn/gl/catalogservice/domain/Category.class
+tn/gl/catalogservice/dto/CategoryDTO.class
+tn/gl/catalogservice/dto/CategoryDTO$Response.class
+tn/gl/catalogservice/domain/Product.class
+tn/gl/catalogservice/repo/ProductRepository.class
+tn/gl/catalogservice/dto/ProductDTO$Response.class
